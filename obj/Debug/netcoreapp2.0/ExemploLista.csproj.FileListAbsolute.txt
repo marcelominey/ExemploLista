@@ -1,0 +1,10 @@
+C:\Users\22386773809\backend\ExemploLista\bin\Debug\netcoreapp2.0\ExemploLista.deps.json
+C:\Users\22386773809\backend\ExemploLista\bin\Debug\netcoreapp2.0\ExemploLista.runtimeconfig.json
+C:\Users\22386773809\backend\ExemploLista\bin\Debug\netcoreapp2.0\ExemploLista.runtimeconfig.dev.json
+C:\Users\22386773809\backend\ExemploLista\bin\Debug\netcoreapp2.0\ExemploLista.dll
+C:\Users\22386773809\backend\ExemploLista\bin\Debug\netcoreapp2.0\ExemploLista.pdb
+C:\Users\22386773809\backend\ExemploLista\obj\Debug\netcoreapp2.0\ExemploLista.csproj.CoreCompileInputs.cache
+C:\Users\22386773809\backend\ExemploLista\obj\Debug\netcoreapp2.0\ExemploLista.AssemblyInfoInputs.cache
+C:\Users\22386773809\backend\ExemploLista\obj\Debug\netcoreapp2.0\ExemploLista.AssemblyInfo.cs
+C:\Users\22386773809\backend\ExemploLista\obj\Debug\netcoreapp2.0\ExemploLista.dll
+C:\Users\22386773809\backend\ExemploLista\obj\Debug\netcoreapp2.0\ExemploLista.pdb
